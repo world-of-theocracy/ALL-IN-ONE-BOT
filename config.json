@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTM4MDk4OTc2ODU1NjQ4MjY1Mg.G9WhyD.ROGoMsNqW5ZFe9fFbS655U-q5kepUiOxQwAIZo",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://Theocracy:Theocracy@discordbotcluster.hjmgtmo.mongodb.net/retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
